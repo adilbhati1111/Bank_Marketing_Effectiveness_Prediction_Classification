@@ -1,5 +1,3 @@
-# Bank_Marketing_Effectiveness_Prediction_Classification
-
 # Project Title: Bank Marketing Effectiveness Prediction
 
 ![image](https://user-images.githubusercontent.com/95522639/232319637-a4857735-6381-4e4a-b70f-eccc2861a729.png)
